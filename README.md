@@ -30,7 +30,8 @@ To visually represent real-world deposits alongside synthetic mineral patterns, 
 ## 💭 Data Source
 Remote sensing images: [Geoscience Australia ASTER Database](https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/)
 
-Deposit location labels [SARIG](https://map.sarig.sa.gov.au/), as illustrated below
+Deposit location labels [SARIG](https://map.sarig.sa.gov.au/), as illustrated below:
+
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/0ef3aff3-6f62-4934-a197-a21247fb3064" />
 
 ## 💭 QA Pairs Construction
