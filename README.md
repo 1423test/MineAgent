@@ -16,7 +16,7 @@ MineBench presents real-world deposits combined with synthetic mineral patterns,
 
 2.**Geological Alignment**: Ensuring the colored regions in the hyperspectral data accurately correspond to the geological context.
 
-# Labeled deposit locations with mineral pattern visualization
+# Mineral pattern visualization
 
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/86583c37-7b7b-4290-9b56-809983ba835f" />
 
