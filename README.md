@@ -10,21 +10,21 @@ MineBench provides a unique challenge to MLLMs where both multi-image reasoning 
 ### Example of MineBench
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/dcab0064-dce7-4f5f-a59d-a971853d5dbf" />
 
-MineBench presents real-world deposits combined with synthetic mineral patterns, as illustrated above. It includes four images: one geological image and three hyperspectral images. The synthetic mineral patterns are evaluated based on two key criteria:
+To identify real-world mineral deposits, MineBench uses synthetic mineral patterns, as shown above. The exploration process involves four images: one geological image and three hyperspectral images. The synthetic mineral patterns are evaluated based on two key criteria for identifying mineral deposits:
 
-1.**Spatial Consistency**: Confirming that the colored regions across the three hyperspectral images exhibit smooth spatial transitions, reflecting the gradual distribution of mineral deposits.
+1.**Spatial Consistency**: This criterion ensures that the colored regions across the three hyperspectral images show smooth spatial transitions, reflecting the gradual and continuous distribution of mineral deposits.
 
-2.**Geological Alignment**: Ensuring the colored regions in the hyperspectral data accurately correspond to the geological context.
+2.**Geological Alignment**: This criterion ensures that the colored regions in the hyperspectral images accurately correspond to the geological context presented in the geological image.
 
 ### Mineral pattern visualization
 
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/86583c37-7b7b-4290-9b56-809983ba835f" />
 
-To directly show the real-world deposits combined with synthetic mineral patterns, it as illustrated above. The authentic deposit locations are marked with red points, which predominantly align with the synthetic color-coded regions.
+To visually represent real-world deposits alongside synthetic mineral patterns, the diagram above illustrates this comparison. Authentic deposit locations are marked with red points, which generally correspond to the synthetic color-coded regions.
 
-**Positive samples**: These exhibit a smooth gradient of color transitions from red to yellow to orange, systematically capturing the alteration zones typical of full mineral deposits. This reflects the continuous mineralization process.
+**Positive samples**:  These samples show a smooth gradient of color transitions from red to yellow to orange, systematically capturing the alteration zones typically associated with fully developed mineral deposits. This pattern reflects the ongoing mineralization process.
 
-**Negative samples**: These exhibit distinct characteristics, such as low color intensity (indicating minimal mineralization potential) or incomplete color transitions, suggesting that the deposit is in an early or incomplete stage of formation.
+**Negative samples**: These samples exhibit distinct characteristics, such as low color intensity (indicating minimal mineralization potential) or incomplete color transitions, suggesting that the deposit is in an early or incomplete stage of formation.
 
 
 ## 💭 Data Source
