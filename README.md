@@ -7,7 +7,7 @@ MineBench provides a unique challenge to MLLMs where both multi-image reasoning 
 
 ## ⚡ Examples
 
-# Example of MineBench
+### Example of MineBench
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/dcab0064-dce7-4f5f-a59d-a971853d5dbf" />
 
 MineBench presents real-world deposits combined with synthetic mineral patterns, as illustrated above. It includes four images: one geological image and three hyperspectral images. The synthetic mineral patterns are evaluated based on two key criteria:
@@ -16,7 +16,7 @@ MineBench presents real-world deposits combined with synthetic mineral patterns,
 
 2.**Geological Alignment**: Ensuring the colored regions in the hyperspectral data accurately correspond to the geological context.
 
-# Mineral pattern visualization
+### Mineral pattern visualization
 
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/86583c37-7b7b-4290-9b56-809983ba835f" />
 
